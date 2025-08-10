@@ -1,1 +1,1 @@
-” data requirements: email, firstName, lastName, profilePic]”
+requirements: email, firstName, lastName, profilePic]”
